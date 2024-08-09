@@ -41,6 +41,8 @@ To get started with **PassGuard**, you can easily clone the repository to your l
 
 ```bash
 git clone https://github.com/Sooriya04/PassGuard-python-password-manager-and-generator.git
-
+```
 ### To Run the file
+```bash
 python main.py
+```
